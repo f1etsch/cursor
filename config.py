@@ -1,0 +1,26 @@
+"""Color palette and UI constants."""
+
+BG_MAIN = "#2a2226"
+BG_CARD = "#382f35"
+BG_INPUT = "#1e1a22"
+ACCENT = "#b873f2"
+ACCENT_DIM = "#8b5fc9"
+TEXT = "#ffffff"
+TEXT_DIM = "#a6a1a8"
+BTN_PRIMARY = "#3a91ad"
+BTN_SECONDARY = "#b33964"
+BTN_MUTED = "#4a3f4a"
+CHART_BG = "#1a161c"
+CHART_LINE = "#b873f2"
+CHART_GRID = "#3d3540"
+CHART_AXIS = "#a6a1a8"
+BORDER = "#4a3f4a"
+
+TAP_STEM_STREAM = "#b873f2"
+TAP_STEM_JUMP = "#b33964"
+TAP_DOT_SLOT0 = "#2ec5ff"
+TAP_DOT_SLOT1 = "#ff4fb3"
+TAP_DOT_STREAM = "#a86cff"
+TAP_STREAM_BPM_THRESHOLD = 185.0
+
+FONT_FAMILY = "Segoe UI"
